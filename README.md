@@ -41,3 +41,7 @@ Wi-Fi Country Code Switch Tool/
 py
 ├─ log.txt         # Execution log
 └─ README.md
+
+Language: Python 3.10+
+Libraries: Subprocess, OS, Logging (處理底層系統呼叫與日誌追蹤)
+Version Control: Git / GitHub
